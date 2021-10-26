@@ -1,0 +1,53 @@
+#header_div {
+    background-color: rgba(255, 32, 99, 0.986);
+    padding-top: 20;
+    padding-bottom: 12;
+    color:black;
+
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    font-family: 'Festive', cursive;
+   
+
+}
+
+
+#header_div p{
+  font-family: sans-serif;  
+  letter-spacing: 2.5px ;
+ font-weight:bold ;
+ font-size: medium;
+ color: aliceblue;
+}
+
+#STARTbtn{
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#default-img{
+    margin-top: 20px;
+    margin-left: 50px;
+    width:300px;
+    height: 400px;
+}
+
+#contents h3,h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:30px;
+    font-weight:bold;
+    
+}
+
+.footer{
+font-size:30px;
+color:coral
+}
+
+h4{
+    color:aquamarine;
+}
